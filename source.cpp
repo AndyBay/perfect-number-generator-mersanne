@@ -8,7 +8,7 @@ int main() {
 						mersenne,
 						candidate;
 						
-	std::cout << "\nFinds candidates using <<mersanne>> and checks if they"
+	std::cout << "\nFinds candidates using <<mersenne>> and checks if they"
 			  << " are valid.\nProceeds to print out the <<perfect numbers>>"
 			  << " until the amount of \ndigits overreaches its variable.\n";
 						
